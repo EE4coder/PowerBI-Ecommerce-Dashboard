@@ -2,8 +2,8 @@
 ## Project Overview
 To design and develop a Power BI dashboard that analyzes eCommerce sales data, providing key insights on sales trends, customer behavior, and product performance to support data-driven decisions for business growth.
 
-## Dataset used
--<a >Madhava Store Data</a>
+## Dashboard Interaction
+-<a https://github.com/EE4coder/PowerBI-Ecommerce-Dashboard/blob/main/Ecommerce%20Dashboard.pbix>Madhav eCommerce Sales </a>
 
 ## Questions (KPIs)
 
@@ -21,8 +21,6 @@ To design and develop a Power BI dashboard that analyzes eCommerce sales data, p
 - What is the average order size and frequency?
 - Which regions or locations have the highest sales volumes?
 
-- 	Dashboard Interaction -<a href=https://github.com/EE4coder/Data-Analysis-Dashboard/blob/main/Report.png>View Dashboard</a> 
-
 ## Process
 - Created interactive dashboard to track and analyze online sales data
 - Used complex parameters to drill down in worksheet and customization using filters and slicers
@@ -31,7 +29,7 @@ To design and develop a Power BI dashboard that analyzes eCommerce sales data, p
 
 ## Dashboard
 
-![Report]()
+![Report](https://github.com/EE4coder/PowerBI-Ecommerce-Dashboard/blob/main/Ecommerce%20Dashboard.png)
 
 ## Project Insight
 - **Revenue Trends**: Identified peak sales months, revealing seasonal sales patterns that align with promotional events.
